@@ -5,7 +5,9 @@ body {
   background-color: #fff;
   margin-top: 50px;
 }
-
+.container {
+width:100%;
+}
 input {
   outline: none;
 }
